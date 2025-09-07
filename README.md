@@ -42,6 +42,7 @@ The aim is to generate health-sector insights that can inform decision-making, r
 ## 🔬 Data Analysis Stages
 
 ![](Anaemia_clean_dataset.jpg)
+
 -	Data Collection – extracted anaemia-related survey indicators and aggregated counts.
 
 
@@ -59,6 +60,11 @@ The aim is to generate health-sector insights that can inform decision-making, r
 
 # 📊 Key Findings
 ![](https://github.com/christopherstanleyobinna-rgb/-Anaemia-Health-Data-Analysis/blob/main/Anaemia%20dashboard.jpg)
+
+#### Pivot Table
+
+![](Anemia_Analysis.jpg)
+
 
 - Early pregnancies (<24 years) strongly associated with anaemia.
 
@@ -87,9 +93,6 @@ The aim is to generate health-sector insights that can inform decision-making, r
 
 
 # 📌 Conclusion
+![](https://github.com/christopherstanleyobinna-rgb/-Anaemia-Health-Data-Analysis/blob/main/Anaemie%20image.jpeg)
 
 Anaemia disproportionately affects young mothers, women with no education, rural residents, and the poorest households. Tackling this challenge requires integrated health-sector strategies that combine nutrition interventions, reproductive health services, malaria control, and socioeconomic support.
-
-
-
-
