@@ -11,33 +11,33 @@ This analysis was carried out using anaemia-related health data, focusing on key
 
 This project analyzes anaemia-related health data with a focus on demographic and socioeconomic determinants. The dataset was visualized through a dashboard and explored across multiple indicators, including:
 
-Age at first birth
+- Age at first birth
 
-Education level
+- Education level
 
-Mosquito-net usage
+- Mosquito-net usage
 
-Haemoglobin levels by age group
+- Haemoglobin levels by age group
 
-Residence (rural vs urban)
+- Residence (rural vs urban)
 
-Wealth index
+- Wealth index
 
 
 The aim is to generate health-sector insights that can inform decision-making, resource allocation, and intervention strategies.
 
 # 🎯 Objectives
 
-1.	Assess the distribution of anaemia across demographic and socioeconomic groups.
+-	Assess the distribution of anaemia across demographic and socioeconomic groups.
 
 
-2.	Identify factors associated with higher anaemia burden (education, wealth, rural residence, early pregnancies).
+-	Identify factors associated with higher anaemia burden (education, wealth, rural residence, early pregnancies).
 
 
-3.	Highlight high-risk groups most affected by anaemia.
+-	Highlight high-risk groups most affected by anaemia.
 
 
-4.	Provide actionable recommendations for health-sector programs.
+-	Provide actionable recommendations for health-sector programs.
 
 ## 🔬 Data Analysis Stages
 
@@ -58,32 +58,32 @@ The aim is to generate health-sector insights that can inform decision-making, r
 
 
 # 📊 Key Findings
+![](https://github.com/christopherstanleyobinna-rgb/-Anaemia-Health-Data-Analysis/blob/main/Anaemia%20dashboard.jpg)
 
+- Early pregnancies (<24 years) strongly associated with anaemia.
 
-Early pregnancies (<24 years) strongly associated with anaemia.
+- No education → highest anaemia cases; higher education → lowest.
 
-No education → highest anaemia cases; higher education → lowest.
+- Rural women (1,694 cases) had >2× anaemia compared to urban women (745 cases).
 
-Rural women (1,694 cases) had >2× anaemia compared to urban women (745 cases).
+- Poorest households had the greatest burden; richest households had minimal cases.
 
-Poorest households had the greatest burden; richest households had minimal cases.
+- Anaemia concentrated among reproductive-age women (20–34 years).
 
-Anaemia concentrated among reproductive-age women (20–34 years).
-
-Mosquito-net users had higher recorded cases, reflecting distribution in malaria-prone areas.
+- Mosquito-net users had higher recorded cases, reflecting distribution in malaria-prone areas.
 
 
 # 🩺 Health-Sector Recommendations
 
-Adolescents & young mothers → expand reproductive health education, family planning, and iron supplementation.
+- Adolescents & young mothers → expand reproductive health education, family planning, and iron supplementation.
 
-Rural populations → strengthen outreach services, supply diagnostic kits and supplements.
+- Rural populations → strengthen outreach services, supply diagnostic kits and supplements.
 
-Poverty & nutrition → implement food fortification, provide nutrition support programs.
+- Poverty & nutrition → implement food fortification, provide nutrition support programs.
 
-Malaria integration → couple mosquito-net distribution with anaemia screening and preventive treatment.
+- Malaria integration → couple mosquito-net distribution with anaemia screening and preventive treatment.
 
-Education & awareness → promote nutrition literacy and dietary practices that improve iron intake.
+- Education & awareness → promote nutrition literacy and dietary practices that improve iron intake.
 
 
 # 📌 Conclusion
